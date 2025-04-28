@@ -1,5 +1,5 @@
 
-# What is GitHub
+## What is GitHub
 
 
 GitHub is a website where you store and manage code (or any project).
